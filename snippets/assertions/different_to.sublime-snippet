@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+assert "${1:rainbows}" ${2:different_to} "${3:unicorns}"
+]]></content>
+	<tabTrigger>different_to</tabTrigger>
+	<scope>source.shell</scope>
+</snippet>

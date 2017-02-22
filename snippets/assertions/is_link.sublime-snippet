@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+assert ${1:/path/to/link} ${2:is_link}
+]]></content>
+	<tabTrigger>is_link</tabTrigger>
+	<scope>source.shell</scope>
+</snippet>

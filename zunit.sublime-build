@@ -1,0 +1,3 @@
+{
+	"cmd": ["zunit", "--tap", "$file"]
+}

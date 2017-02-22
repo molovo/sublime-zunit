@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+assert ${1:1} ${2:not_equal_to} ${3:2}
+]]></content>
+	<tabTrigger>not_equal_to</tabTrigger>
+	<scope>source.shell</scope>
+</snippet>

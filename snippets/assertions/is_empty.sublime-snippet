@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+assert "${1:}" ${2:is_empty}
+]]></content>
+	<tabTrigger>is_empty</tabTrigger>
+	<scope>source.shell</scope>
+</snippet>

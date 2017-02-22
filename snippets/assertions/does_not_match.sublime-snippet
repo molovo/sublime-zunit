@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+assert "${1:rainbows}" ${2:does_not_match} '${3:[0-9]+}'
+]]></content>
+	<tabTrigger>does_not_match</tabTrigger>
+	<scope>source.shell</scope>
+</snippet>

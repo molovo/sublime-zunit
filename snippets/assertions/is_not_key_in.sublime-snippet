@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+assert "${1:rainbows}" ${2:is_not_key_in} ${3:\${(@kv)${4:hash}}}
+]]></content>
+	<tabTrigger>is_not_key_in</tabTrigger>
+	<scope>source.shell</scope>
+</snippet>

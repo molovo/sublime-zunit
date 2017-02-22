@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+load ${2:path/to/file}
+]]></content>
+	<tabTrigger>load</tabTrigger>
+	<scope>source.shell</scope>
+</snippet>

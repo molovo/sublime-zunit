@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+assert ${1:/path/to/file} ${2:exists}
+]]></content>
+	<tabTrigger>exists</tabTrigger>
+	<scope>source.shell</scope>
+</snippet>

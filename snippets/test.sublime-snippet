@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+@test '${1:My Awesome Test}' {
+	${2:run ${3:echo 1}}
+
+	${4:assert ${5:\$state} ${6:equals} ${7:0}
+	assert "${8:\$output}" ${9:same_as} "${10:1}"}
+}
+]]></content>
+	<tabTrigger>test</tabTrigger>
+	<scope>source.shell</scope>
+</snippet>

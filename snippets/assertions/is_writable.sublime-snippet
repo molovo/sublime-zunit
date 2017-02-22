@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+assert ${1:/path/to/file} ${2:is_writable}
+]]></content>
+	<tabTrigger>is_writable</tabTrigger>
+	<scope>source.shell</scope>
+</snippet>
